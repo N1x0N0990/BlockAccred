@@ -1,0 +1,301 @@
+parameter,programme,year,value
+Faculty Information,Demo Programme 1,2016,73.2
+Faculty Information,Demo Programme 1,2017,76.0
+Faculty Information,Demo Programme 1,2018,75.2
+Faculty Information,Demo Programme 1,2019,76.5
+Faculty Information,Demo Programme 1,2020,78.1
+Faculty Information,Demo Programme 1,2021,77.5
+Faculty Information,Demo Programme 1,2022,80.2
+Faculty Information,Demo Programme 1,2023,81.9
+Faculty Information,Demo Programme 1,2024,83.8
+Faculty Information,Demo Programme 1,2025,81.9
+Faculty Information,Demo Programme 2,2016,70.2
+Faculty Information,Demo Programme 2,2017,74.6
+Faculty Information,Demo Programme 2,2018,75.3
+Faculty Information,Demo Programme 2,2019,73.6
+Faculty Information,Demo Programme 2,2020,78.9
+Faculty Information,Demo Programme 2,2021,80.1
+Faculty Information,Demo Programme 2,2022,79.9
+Faculty Information,Demo Programme 2,2023,80.9
+Faculty Information,Demo Programme 2,2024,80.1
+Faculty Information,Demo Programme 2,2025,80.7
+Faculty Information,Demo Programme 3,2016,71.4
+Faculty Information,Demo Programme 3,2017,73.2
+Faculty Information,Demo Programme 3,2018,74.6
+Faculty Information,Demo Programme 3,2019,74.9
+Faculty Information,Demo Programme 3,2020,78.0
+Faculty Information,Demo Programme 3,2021,79.1
+Faculty Information,Demo Programme 3,2022,82.1
+Faculty Information,Demo Programme 3,2023,81.9
+Faculty Information,Demo Programme 3,2024,83.6
+Faculty Information,Demo Programme 3,2025,84.2
+Faculty Information,Demo Programme 4,2016,74.0
+Faculty Information,Demo Programme 4,2017,74.4
+Faculty Information,Demo Programme 4,2018,78.8
+Faculty Information,Demo Programme 4,2019,80.0
+Faculty Information,Demo Programme 4,2020,80.5
+Faculty Information,Demo Programme 4,2021,81.1
+Faculty Information,Demo Programme 4,2022,80.6
+Faculty Information,Demo Programme 4,2023,81.4
+Faculty Information,Demo Programme 4,2024,82.8
+Faculty Information,Demo Programme 4,2025,83.1
+Faculty Information,Demo Programme 5,2016,74.4
+Faculty Information,Demo Programme 5,2017,77.5
+Faculty Information,Demo Programme 5,2018,76.7
+Faculty Information,Demo Programme 5,2019,80.4
+Faculty Information,Demo Programme 5,2020,81.1
+Faculty Information,Demo Programme 5,2021,78.6
+Faculty Information,Demo Programme 5,2022,80.7
+Faculty Information,Demo Programme 5,2023,85.0
+Faculty Information,Demo Programme 5,2024,84.3
+Faculty Information,Demo Programme 5,2025,87.7
+Faculty Information,Demo Programme 6,2016,70.7
+Faculty Information,Demo Programme 6,2017,74.4
+Faculty Information,Demo Programme 6,2018,76.2
+Faculty Information,Demo Programme 6,2019,75.2
+Faculty Information,Demo Programme 6,2020,75.6
+Faculty Information,Demo Programme 6,2021,77.8
+Faculty Information,Demo Programme 6,2022,81.8
+Faculty Information,Demo Programme 6,2023,82.1
+Faculty Information,Demo Programme 6,2024,80.5
+Faculty Information,Demo Programme 6,2025,82.3
+Student Performance,Demo Programme 1,2016,65.9
+Student Performance,Demo Programme 1,2017,70.3
+Student Performance,Demo Programme 1,2018,68.8
+Student Performance,Demo Programme 1,2019,71.7
+Student Performance,Demo Programme 1,2020,72.4
+Student Performance,Demo Programme 1,2021,72.4
+Student Performance,Demo Programme 1,2022,76.0
+Student Performance,Demo Programme 1,2023,74.6
+Student Performance,Demo Programme 1,2024,78.0
+Student Performance,Demo Programme 1,2025,76.9
+Student Performance,Demo Programme 2,2016,68.5
+Student Performance,Demo Programme 2,2017,69.9
+Student Performance,Demo Programme 2,2018,74.2
+Student Performance,Demo Programme 2,2019,74.7
+Student Performance,Demo Programme 2,2020,73.7
+Student Performance,Demo Programme 2,2021,77.4
+Student Performance,Demo Programme 2,2022,75.7
+Student Performance,Demo Programme 2,2023,77.7
+Student Performance,Demo Programme 2,2024,80.9
+Student Performance,Demo Programme 2,2025,81.1
+Student Performance,Demo Programme 3,2016,70.0
+Student Performance,Demo Programme 3,2017,67.7
+Student Performance,Demo Programme 3,2018,69.1
+Student Performance,Demo Programme 3,2019,72.6
+Student Performance,Demo Programme 3,2020,71.8
+Student Performance,Demo Programme 3,2021,72.9
+Student Performance,Demo Programme 3,2022,73.1
+Student Performance,Demo Programme 3,2023,74.4
+Student Performance,Demo Programme 3,2024,77.8
+Student Performance,Demo Programme 3,2025,77.5
+Student Performance,Demo Programme 4,2016,70.2
+Student Performance,Demo Programme 4,2017,71.8
+Student Performance,Demo Programme 4,2018,75.2
+Student Performance,Demo Programme 4,2019,74.3
+Student Performance,Demo Programme 4,2020,75.9
+Student Performance,Demo Programme 4,2021,78.4
+Student Performance,Demo Programme 4,2022,76.6
+Student Performance,Demo Programme 4,2023,77.7
+Student Performance,Demo Programme 4,2024,82.2
+Student Performance,Demo Programme 4,2025,83.0
+Student Performance,Demo Programme 5,2016,67.3
+Student Performance,Demo Programme 5,2017,71.0
+Student Performance,Demo Programme 5,2018,73.0
+Student Performance,Demo Programme 5,2019,71.0
+Student Performance,Demo Programme 5,2020,75.5
+Student Performance,Demo Programme 5,2021,76.4
+Student Performance,Demo Programme 5,2022,76.4
+Student Performance,Demo Programme 5,2023,76.8
+Student Performance,Demo Programme 5,2024,76.6
+Student Performance,Demo Programme 5,2025,77.5
+Student Performance,Demo Programme 6,2016,71.8
+Student Performance,Demo Programme 6,2017,75.1
+Student Performance,Demo Programme 6,2018,74.3
+Student Performance,Demo Programme 6,2019,78.0
+Student Performance,Demo Programme 6,2020,78.2
+Student Performance,Demo Programme 6,2021,78.1
+Student Performance,Demo Programme 6,2022,78.7
+Student Performance,Demo Programme 6,2023,82.3
+Student Performance,Demo Programme 6,2024,80.7
+Student Performance,Demo Programme 6,2025,82.6
+Placement,Demo Programme 1,2016,71.5
+Placement,Demo Programme 1,2017,72.1
+Placement,Demo Programme 1,2018,72.2
+Placement,Demo Programme 1,2019,76.6
+Placement,Demo Programme 1,2020,75.1
+Placement,Demo Programme 1,2021,75.8
+Placement,Demo Programme 1,2022,78.5
+Placement,Demo Programme 1,2023,80.9
+Placement,Demo Programme 1,2024,80.8
+Placement,Demo Programme 1,2025,82.9
+Placement,Demo Programme 2,2016,69.1
+Placement,Demo Programme 2,2017,68.8
+Placement,Demo Programme 2,2018,71.4
+Placement,Demo Programme 2,2019,75.3
+Placement,Demo Programme 2,2020,77.3
+Placement,Demo Programme 2,2021,77.5
+Placement,Demo Programme 2,2022,79.3
+Placement,Demo Programme 2,2023,80.4
+Placement,Demo Programme 2,2024,80.0
+Placement,Demo Programme 2,2025,81.2
+Placement,Demo Programme 3,2016,68.5
+Placement,Demo Programme 3,2017,69.2
+Placement,Demo Programme 3,2018,71.9
+Placement,Demo Programme 3,2019,69.4
+Placement,Demo Programme 3,2020,73.7
+Placement,Demo Programme 3,2021,74.6
+Placement,Demo Programme 3,2022,77.3
+Placement,Demo Programme 3,2023,77.1
+Placement,Demo Programme 3,2024,81.7
+Placement,Demo Programme 3,2025,79.2
+Placement,Demo Programme 4,2016,70.9
+Placement,Demo Programme 4,2017,73.2
+Placement,Demo Programme 4,2018,74.1
+Placement,Demo Programme 4,2019,75.6
+Placement,Demo Programme 4,2020,77.6
+Placement,Demo Programme 4,2021,79.7
+Placement,Demo Programme 4,2022,78.8
+Placement,Demo Programme 4,2023,81.9
+Placement,Demo Programme 4,2024,84.4
+Placement,Demo Programme 4,2025,85.9
+Placement,Demo Programme 5,2016,70.4
+Placement,Demo Programme 5,2017,72.3
+Placement,Demo Programme 5,2018,72.6
+Placement,Demo Programme 5,2019,74.5
+Placement,Demo Programme 5,2020,75.0
+Placement,Demo Programme 5,2021,77.5
+Placement,Demo Programme 5,2022,79.2
+Placement,Demo Programme 5,2023,78.5
+Placement,Demo Programme 5,2024,82.5
+Placement,Demo Programme 5,2025,85.7
+Placement,Demo Programme 6,2016,72.9
+Placement,Demo Programme 6,2017,73.0
+Placement,Demo Programme 6,2018,76.1
+Placement,Demo Programme 6,2019,77.0
+Placement,Demo Programme 6,2020,78.0
+Placement,Demo Programme 6,2021,81.4
+Placement,Demo Programme 6,2022,79.6
+Placement,Demo Programme 6,2023,84.2
+Placement,Demo Programme 6,2024,82.6
+Placement,Demo Programme 6,2025,86.7
+Research/Publications,Demo Programme 1,2016,54.9
+Research/Publications,Demo Programme 1,2017,59.2
+Research/Publications,Demo Programme 1,2018,60.5
+Research/Publications,Demo Programme 1,2019,63.2
+Research/Publications,Demo Programme 1,2020,66.7
+Research/Publications,Demo Programme 1,2021,66.0
+Research/Publications,Demo Programme 1,2022,67.1
+Research/Publications,Demo Programme 1,2023,70.6
+Research/Publications,Demo Programme 1,2024,74.5
+Research/Publications,Demo Programme 1,2025,74.6
+Research/Publications,Demo Programme 2,2016,56.0
+Research/Publications,Demo Programme 2,2017,57.1
+Research/Publications,Demo Programme 2,2018,58.4
+Research/Publications,Demo Programme 2,2019,62.5
+Research/Publications,Demo Programme 2,2020,62.3
+Research/Publications,Demo Programme 2,2021,65.9
+Research/Publications,Demo Programme 2,2022,66.1
+Research/Publications,Demo Programme 2,2023,69.3
+Research/Publications,Demo Programme 2,2024,73.2
+Research/Publications,Demo Programme 2,2025,75.8
+Research/Publications,Demo Programme 3,2016,58.0
+Research/Publications,Demo Programme 3,2017,61.0
+Research/Publications,Demo Programme 3,2018,62.1
+Research/Publications,Demo Programme 3,2019,63.5
+Research/Publications,Demo Programme 3,2020,67.3
+Research/Publications,Demo Programme 3,2021,71.0
+Research/Publications,Demo Programme 3,2022,73.2
+Research/Publications,Demo Programme 3,2023,74.8
+Research/Publications,Demo Programme 3,2024,78.1
+Research/Publications,Demo Programme 3,2025,77.3
+Research/Publications,Demo Programme 4,2016,54.0
+Research/Publications,Demo Programme 4,2017,55.4
+Research/Publications,Demo Programme 4,2018,57.4
+Research/Publications,Demo Programme 4,2019,60.4
+Research/Publications,Demo Programme 4,2020,63.6
+Research/Publications,Demo Programme 4,2021,65.2
+Research/Publications,Demo Programme 4,2022,66.6
+Research/Publications,Demo Programme 4,2023,71.1
+Research/Publications,Demo Programme 4,2024,73.9
+Research/Publications,Demo Programme 4,2025,73.8
+Research/Publications,Demo Programme 5,2016,51.6
+Research/Publications,Demo Programme 5,2017,57.5
+Research/Publications,Demo Programme 5,2018,56.0
+Research/Publications,Demo Programme 5,2019,61.2
+Research/Publications,Demo Programme 5,2020,62.8
+Research/Publications,Demo Programme 5,2021,63.8
+Research/Publications,Demo Programme 5,2022,68.1
+Research/Publications,Demo Programme 5,2023,66.9
+Research/Publications,Demo Programme 5,2024,69.6
+Research/Publications,Demo Programme 5,2025,73.2
+Research/Publications,Demo Programme 6,2016,54.8
+Research/Publications,Demo Programme 6,2017,54.4
+Research/Publications,Demo Programme 6,2018,56.2
+Research/Publications,Demo Programme 6,2019,58.0
+Research/Publications,Demo Programme 6,2020,62.7
+Research/Publications,Demo Programme 6,2021,64.1
+Research/Publications,Demo Programme 6,2022,67.1
+Research/Publications,Demo Programme 6,2023,69.4
+Research/Publications,Demo Programme 6,2024,72.3
+Research/Publications,Demo Programme 6,2025,75.2
+Infrastructure,Demo Programme 1,2016,73.8
+Infrastructure,Demo Programme 1,2017,76.0
+Infrastructure,Demo Programme 1,2018,75.7
+Infrastructure,Demo Programme 1,2019,76.0
+Infrastructure,Demo Programme 1,2020,79.0
+Infrastructure,Demo Programme 1,2021,81.0
+Infrastructure,Demo Programme 1,2022,79.7
+Infrastructure,Demo Programme 1,2023,81.1
+Infrastructure,Demo Programme 1,2024,82.4
+Infrastructure,Demo Programme 1,2025,85.0
+Infrastructure,Demo Programme 2,2016,74.6
+Infrastructure,Demo Programme 2,2017,76.2
+Infrastructure,Demo Programme 2,2018,75.7
+Infrastructure,Demo Programme 2,2019,78.4
+Infrastructure,Demo Programme 2,2020,79.9
+Infrastructure,Demo Programme 2,2021,77.3
+Infrastructure,Demo Programme 2,2022,82.0
+Infrastructure,Demo Programme 2,2023,82.1
+Infrastructure,Demo Programme 2,2024,80.5
+Infrastructure,Demo Programme 2,2025,82.9
+Infrastructure,Demo Programme 3,2016,76.6
+Infrastructure,Demo Programme 3,2017,75.2
+Infrastructure,Demo Programme 3,2018,77.1
+Infrastructure,Demo Programme 3,2019,79.4
+Infrastructure,Demo Programme 3,2020,80.1
+Infrastructure,Demo Programme 3,2021,81.7
+Infrastructure,Demo Programme 3,2022,80.6
+Infrastructure,Demo Programme 3,2023,82.4
+Infrastructure,Demo Programme 3,2024,81.5
+Infrastructure,Demo Programme 3,2025,84.7
+Infrastructure,Demo Programme 4,2016,76.5
+Infrastructure,Demo Programme 4,2017,77.9
+Infrastructure,Demo Programme 4,2018,76.6
+Infrastructure,Demo Programme 4,2019,80.7
+Infrastructure,Demo Programme 4,2020,82.0
+Infrastructure,Demo Programme 4,2021,83.0
+Infrastructure,Demo Programme 4,2022,82.1
+Infrastructure,Demo Programme 4,2023,84.2
+Infrastructure,Demo Programme 4,2024,83.1
+Infrastructure,Demo Programme 4,2025,86.7
+Infrastructure,Demo Programme 5,2016,75.5
+Infrastructure,Demo Programme 5,2017,75.3
+Infrastructure,Demo Programme 5,2018,77.9
+Infrastructure,Demo Programme 5,2019,79.4
+Infrastructure,Demo Programme 5,2020,81.3
+Infrastructure,Demo Programme 5,2021,81.1
+Infrastructure,Demo Programme 5,2022,80.1
+Infrastructure,Demo Programme 5,2023,84.5
+Infrastructure,Demo Programme 5,2024,82.2
+Infrastructure,Demo Programme 5,2025,86.5
+Infrastructure,Demo Programme 6,2016,71.3
+Infrastructure,Demo Programme 6,2017,74.3
+Infrastructure,Demo Programme 6,2018,72.5
+Infrastructure,Demo Programme 6,2019,73.5
+Infrastructure,Demo Programme 6,2020,76.1
+Infrastructure,Demo Programme 6,2021,78.0
+Infrastructure,Demo Programme 6,2022,79.5
+Infrastructure,Demo Programme 6,2023,79.9
+Infrastructure,Demo Programme 6,2024,82.0
+Infrastructure,Demo Programme 6,2025,81.0
